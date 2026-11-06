@@ -1,4 +1,9 @@
 const path = require('path')
-const extension = path.extname('arquivo.txt')
+const extension = path.extname('arquivo.txt') //.txt
 
-console.log(extension)
+function getExtension(ext){
+    return path.extname(ext)
+}
+
+console.log(extension) //.txt
+console.log(getExtension('arquivo.php')) //.php
