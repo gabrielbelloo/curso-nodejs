@@ -1,0 +1,20 @@
+{
+  "name": "10_abstracao_input",
+  "version": "1.0.0",
+  "description": "Estudo sobre npm",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/gabrielbelloo/curso_nodejs"
+  },
+  "author": "Gabriel Bello",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^6.0.1",
+    "inquirer": "^8.1.2"
+  }
+}
