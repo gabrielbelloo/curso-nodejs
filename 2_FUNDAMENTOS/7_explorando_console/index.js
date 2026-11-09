@@ -15,3 +15,5 @@ console.log('%s, tudo bem?', y) //variável entre string
 setTimeout(() => {
     console.clear()
 }, 2000)
+
+                                                                                         
